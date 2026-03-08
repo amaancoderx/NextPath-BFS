@@ -4,6 +4,8 @@
 
 Welcome to **NextPath**, the **developer-first graph algorithm visualizer** that’s anything but ordinary. This isn’t just a tool—it’s a **real-time, interactive graph engine** designed to help you **simulate, test, and master graph algorithms** with unparalleled clarity. Whether you’re debugging A\*, exploring BFS, or crafting custom graphs, NextPath turns theory into an **intuitive, hands-on experience**.
 
+🌟 **Try it live** → [nexpath.lakshman.me](https://nexpath.lakshman.me)
+
 ---
 
 ## 🎥 Sneak Peek
