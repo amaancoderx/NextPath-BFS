@@ -94,11 +94,6 @@ We’re just getting started! Here’s what’s on the horizon:
 
 ---
 
-## 👨‍💻 Meet the Creator
-
-**[Lakshman Siva](https://lakshman.me/)** – Full-stack engineer, ML enthusiast, and visualization nerd.  
-🔗 [GitHub](https://github.com/Lakshman-99) | [LinkedIn](https://linkedin.com/in/lakshman18)
-
 ---
 
 ## 🤝 Join the Fun
@@ -109,7 +104,6 @@ Got a killer algorithm, UI tweak, or new feature in mind? Contribute to NextPath
 git checkout -b feature/epic-idea
 ```
 
-Submit a PR and become a **NextPath legend**. Have suggestions? [Open an issue](https://github.com/Lakshman-99/nextpath/issues).
 
 ---
 
